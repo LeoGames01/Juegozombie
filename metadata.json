@@ -1,0 +1,6 @@
+{
+  "name": "Zona Cero",
+  "description": "Juego 3D de supervivencia en apocalipsis zombie con Three.js y caché permanente de personajes .glb en IndexedDB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
